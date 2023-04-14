@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15pt;
+    background-color: rgb(188, 188, 188);
+}
+
+input {
+    margin: 5px 0;
+    font-size: 15pt;
+}
+
+#addProduct {
+    font-size: large;
+    margin-top: 5px;
+}
+
+.productList .margin {
+    margin: 3px 5px;
+}
